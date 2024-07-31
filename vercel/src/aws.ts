@@ -4,8 +4,7 @@ import path from "path";
 
 // replace with your own credentials
 const s3 = new S3({
-    accessKeyId: "AKIAQ3EGRWEITPASIQWF",
-    secretAccessKey: "lJsAo3alBVOxj0Wgx6LfBSzWY+vPvw4ggnbmpvFH"
+    
 })
 
 // fileName => output/12312/src/App.jsx
